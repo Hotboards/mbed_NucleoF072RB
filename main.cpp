@@ -1,10 +1,11 @@
 /**----------------------------------------------------------------------------
- * @target		Nucleo F072RB
- * @libraries	mbed drivers only
- * @date
- * @brief		This is a project build with the mbed libraries ready to compile
+ * @target      Nucleo F072RB
+ * @libraries   mbed drivers only
+ * @date        12-February-2015
+ * @author      Hotboards
+ * @brief       This is a project build with the mbed libraries ready to compile
  * using GNU ARM compiler and eclipse, it has only the driver libraries at the
- * moment should be use as template, only copy and paste to generate a new
+ * moment. Should be use as a template only copy and paste to generate a new
  * independent project, or use egit to clone from the github repository.
  * in folder Debug you will find .hex, .elf and .bin file to program your board
  * check the readme file for more information
