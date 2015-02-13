@@ -32,6 +32,8 @@ First of all you need to install the plugin **Egit** in your Eclipse IDE, then g
 
 Select **Clone URI** and Next, here you only need to write the github address of this repository in the URI: text box ( _check the image below_ )
 
+**https://github.com/Hotboards/mbed_NucleoF072RB.git**
+
 ![img4.png](img/img4.png)
 
 Click on Next, wait and then Next, in this window you have to **Browse** your eclipse workspace, then next, again next and finally finish.
